@@ -10,7 +10,7 @@ This project prepares a high-quality dataset that serves as the foundation for p
 4.	Feature Engineering – Created new features such as:
 i.	ARPU (Average Revenue per User)
 ii.	Payment Consistency
-1v.	Service Bundling Score
+iv.	Service Bundling Score
 o	Complaint Frequency
 o	Engagement Index
 o	Senior Flag
