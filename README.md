@@ -1,7 +1,7 @@
 # CHURN-PREDICTION-DATASET
-This project prepares and analyzes telecom customer data for churn prediction. Using demographics, billing, usage, support, and churn label datasets, I cleaned, transformed, integrated, and engineered features to build a reliable dataset. EDA highlights churn distribution and reasons. 
+This project prepares and analyzes telecom customer data for churn prediction. Using demographics, billing, usage, support, and churn label datasets. I cleaned, transformed, integrated, and engineered features to build a reliable dataset. EDA highlights churn distribution and reasons. 
 ##  Project Overview
-Customer churn is a major challenge in the telecom industry. Globacom faced a dramatic drop in subscribers, highlighting the need for advanced analytics to identify at-risk customers and implement proactive retention strategies.
+Customer churn is a major challenge in the telecom industry. A major telecoms company in Nigeria faced a dramatic drop in subscribers, highlighting the need for advanced analytics to identify at-risk customers and implement proactive retention strategies.
 This project prepares a high-quality dataset that serves as the foundation for predictive modeling. The steps documented here ensure data integrity, consistency, and ethical handling before applying machine learning techniques.
 ##  Key Steps in the Project
 1.	Data Collection – Extracted from multiple sources (CRM, Billing, OSS/BSS, Support Logs, Churn Labels).
