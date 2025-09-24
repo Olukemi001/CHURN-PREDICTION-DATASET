@@ -8,9 +8,9 @@ This project prepares a high-quality dataset that serves as the foundation for p
 2.	Data Cleaning – Removed duplicates, handled missing values, standardized formats, and detected outliers.
 3.	Data Transformation – Encoded categorical values, normalized numerical features, and prepared variables for modeling.
 4.	Feature Engineering – Created new features such as:
-o	ARPU (Average Revenue per User)
-o	Payment Consistency
-o	Service Bundling Score
+i.	ARPU (Average Revenue per User)
+ii.	Payment Consistency
+1v.	Service Bundling Score
 o	Complaint Frequency
 o	Engagement Index
 o	Senior Flag
@@ -22,11 +22,11 @@ o	Senior Flag
 •	telco_usage_subscriptions.csv – Usage and subscription details
 •	telco_support_complaints.csv – Customer support and complaints
 •	telco_churn_labels.csv – Churn outcome labels
-•	telco_integrated_engineered.csv – Final cleaned and feature-engineered dataset
-•	churn_data_preparation.ipynb – Jupyter Notebook with data integration, cleaning, feature engineering, and EDA
+•	telco_integrated_dataset.csv – Final cleaned and feature-engineered dataset
+•	CHURN Project-Ready Dataset.ipynb – Jupyter Notebook with data integration, cleaning, feature engineering, and EDA
 •	Churn_Prediction_Data_Collection_Presentation.pptx – PowerPoint presentation of the milestone project
 ## Tools & Technologies
-•	Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn)
+•	Python (Pandas, NumPy, Seaborn, Matplotlib)
 •	Jupyter Notebook
 •	GitHub for version control
 •	PowerPoint for presentation deliverables
