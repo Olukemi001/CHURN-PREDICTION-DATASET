@@ -11,24 +11,24 @@ This project prepares a high-quality dataset that serves as the foundation for p
 i.	ARPU (Average Revenue per User)
 ii.	Payment Consistency
 iv.	Service Bundling Score
-o	Complaint Frequency
-o	Engagement Index
-o	Senior Flag
+v.	Complaint Frequency
+vi.	Engagement Index
+vii.	Senior Flag
 5.	Data Integration – Merged five datasets (telco_customer_demographics.csv, telco_billing_payments.csv, telco_usage_subscriptions.csv, telco_support_complaints.csv, telco_churn_labels.csv) into a single dataset using Customer ID as the key.
 6.	Exploratory Data Analysis (EDA) – Visualized churn distribution and top churn reasons.
 ##  Repository Contents
-•	telco_customer_demographics.csv – Demographic data
-•	telco_billing_payments.csv – Billing and payment data
-•	telco_usage_subscriptions.csv – Usage and subscription details
-•	telco_support_complaints.csv – Customer support and complaints
-•	telco_churn_labels.csv – Churn outcome labels
-•	telco_integrated_dataset.csv – Final cleaned and feature-engineered dataset
-•	CHURN Project-Ready Dataset.ipynb – Jupyter Notebook with data integration, cleaning, feature engineering, and EDA
-•	Churn_Prediction_Data_Collection_Presentation.pptx – PowerPoint presentation of the milestone project
+1. 	telco_customer_demographics.csv – Demographic data
+2.	telco_billing_payments.csv – Billing and payment data
+3.	telco_usage_subscriptions.csv – Usage and subscription details
+4.	telco_support_complaints.csv – Customer support and complaints
+5.	telco_churn_labels.csv – Churn outcome labels
+6.	telco_integrated_dataset.csv – Final cleaned and feature-engineered dataset
+7.	CHURN Project-Ready Dataset.ipynb – Jupyter Notebook with data integration, cleaning, feature engineering, and EDA
+8.	Churn_Prediction_Data_Collection_Presentation.pptx – PowerPoint presentation of the milestone project
 ## Tools & Technologies
-•	Python (Pandas, NumPy, Seaborn, Matplotlib)
-•	Jupyter Notebook
-•	GitHub for version control
-•	PowerPoint for presentation deliverables
+1.	Python (Pandas, NumPy, Seaborn, Matplotlib)
+2.	Jupyter Notebook
+3.	GitHub for version control
+4.	PowerPoint for presentation deliverables
 
 
